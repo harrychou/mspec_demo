@@ -1,0 +1,1 @@
+.\tool\machine.specifications.consolerunner --html .\test.html .\mspec_demo.specs\bin\Debug\mspec_demo.specs.dll
